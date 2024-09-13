@@ -3,7 +3,7 @@
 | Problem | level | solve_start | solve_end | 코드 풀이 |
 |----------|----------|----------|----------|----------|
 | [Longest Prefix](https://leetcode.com/problems/longest-common-prefix) | 초급  | `2024-08-29`  | `2024-09-01`  | [풀이](beginner/01-longest-prefix.py) |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | 초급  | `2024-08-29`  | `2024-09-01`  |코드 풀이 |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  | 초급  | `2024-08-29`  | `2024-09-01`  | 풀이](beginner/02-remove-duplicates-from-sorted-array.py) |
 | [3Sum](https://leetcode.com/problems/3sum) | 중급 | `2024-08-29` | `2024-09-01` |코드 풀이 |
 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 중급 | `2024-08-29` | `2024-09-01` |코드 풀이 |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 초급 | `2024-09-02` |  |코드 풀이 |

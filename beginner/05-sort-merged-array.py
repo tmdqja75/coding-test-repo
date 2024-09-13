@@ -45,3 +45,14 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
+        if m == 0:
+            return nums2
+        elif n == 0:
+            return nums1
+        
+        pointer_1 = 0
+        pointer_2 = 0
+
+        for i in range(n):
+            for j in range(m):
+                if nums1[]
